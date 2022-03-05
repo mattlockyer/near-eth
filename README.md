@@ -1,5 +1,3 @@
 # Warning 🚨🚨🚨
 
-This is WIP and not finished!
-
-Moving to https://github.com/NearDeFi
+MOVED: https://github.com/NearDeFi/near-eth
